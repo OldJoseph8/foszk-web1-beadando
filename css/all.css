@@ -114,7 +114,7 @@
   line-height: inherit; }
 
 .fa-border {
-  border-color: var(--fa-border-color, #eee);
+  border-color: var(--fa-border-color, #bdbdbd);
   border-radius: var(--fa-border-radius, 0.1em);
   border-style: var(--fa-border-style, solid);
   border-width: var(--fa-border-width, 0.08em);
@@ -491,8 +491,7 @@
 .fa-inverse {
   color: var(--fa-inverse, #fff); }
 
-/* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
-readers do not read off random characters that represent icons */
+
 
 .fa-0::before {
   content: "\30"; }
