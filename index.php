@@ -83,8 +83,8 @@
         </div>
         <div class="rights flex-row">
             <h4 class="text-gray">
-                ©2024 | made by team mind1
-                <a href="https://github.com/sz-kardos/foszk_donation" target="_black">check our code <i class="fa-brands fa-github"></i>
+                ©2025  made okya01 - Kovács Erik
+                <a href="https://github.com/OldJoseph8/foszk-web1-beadando?tab=readme-ov-file" target="_black">check our code <i class="fa-brands fa-github"></i>
                     Tube</a>
             </h4>
         </div>
